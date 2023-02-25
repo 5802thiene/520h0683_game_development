@@ -1,3 +1,7 @@
 - mỗi 1 LAB sẽ được lưu vào 1 branch tương ứng với LAB đó.
-
 each LAB will be saved to a branch corresponding to that LAB.
+
+LAB 1 = branch "lab1"
+LAB 2 = branch "lab2"
+LAB 3&4 = branch "lab3&4"
+...
